@@ -341,7 +341,7 @@
   /* REACH OUT STYLES END */
 
   /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
-  @media screen and (max-width: 980) {
+  @media screen and (max-width: 980px) {
     header {
       padding-bottom: 0;
       justify-content: center;
